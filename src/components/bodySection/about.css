@@ -1,0 +1,57 @@
+.a-right{
+    flex: 1;
+    position: relative;
+}
+.a-left{
+    flex: 1;
+}
+.a-about{
+    display: flex;
+    height: 55vh;
+    display: flex;
+}
+#a-title{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    font-family: 'Kanit';
+    font-size: 50px;
+
+}
+.a-subheader{
+    margin: 20px 0px;
+
+}
+.a-description{
+    margin: 20px 0px;
+    font-weight: 300;
+}
+.a-position{
+    margin-top: 50px;
+    margin-left: 15px;
+}
+.a-img{
+    width: 77%;
+    height: 110%;
+    object-fit: cover;
+    position: absolute;
+    margin-left: 18px;
+    margin-top: 9px;
+}
+.a-bg{
+    clip-path: polygon(0% 0%, 0% 100%, 91% 100%, 0 0, 90% 0, 90% 100%, 100% 100%, 100% 0%);
+    background-color: #3da9c4;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    right: 0;
+    
+}
+.a-skills{   
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    font-family: 'Kanit';
+    font-size: 50px;
+}

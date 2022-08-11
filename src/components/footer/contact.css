@@ -1,0 +1,17 @@
+.f-contact{
+    height: 50vh;
+}
+#f-contactName{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    font-family: 'Kanit';
+    font-size: 50px;
+    margin-top: 50px;
+}
+.m-contact{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    
+}
